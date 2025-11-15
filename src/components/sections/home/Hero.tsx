@@ -9,7 +9,7 @@ type LayoutStyle = 'asymmetric' | 'centered';
 
 const DEFAULT_HERO = {
   eyebrow: 'Tech Innovation Hub',
-  headline: "Building tomorrow's",
+  headline: "Check tomorrow's's",
   headlineEmphasis: 'digital solutions',
   leadText:
     'We create cutting-edge web applications and digital platforms that scale. From MVP to enterprise, our tech-first approach delivers robust, performant solutions that drive business growth.',
